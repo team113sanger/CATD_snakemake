@@ -25,3 +25,8 @@ Plots
 *benchmarks*
 *runSum*
 *Installed_successfully*
+#ignore files that are produced by make
+config.yaml
+getDag.sh
+runPip.sh
+Snakefile
